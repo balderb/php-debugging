@@ -1,2 +1,2 @@
-# PHP-dubugging
-php-dubugging exercise for back-end workshop
+# PHP-debugging
+php-dubugging exercise for back-end workshop @Becode
