@@ -1,2 +1,2 @@
-# php-dubugging
+# PHP-dubugging
 php-dubugging exercise for back-end workshop
