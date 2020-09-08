@@ -19,3 +19,5 @@ function new_exercise() {
 }
 
 new_exercise(2);
+
+$hello = 'hello'
