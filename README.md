@@ -1,6 +1,3 @@
-# PHP-debugging
-php-dubugging exercise for back-end workshop @Becode
-
 <?php
 declare(strict_types=1);
 
